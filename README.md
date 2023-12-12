@@ -1,6 +1,6 @@
-﻿# Blogs
+﻿# Snap-Blogs
 
-## Objective
+## About
 
 SnapBlog is a Web-based blogging platform where users can create, publish, and manage their blog posts. The platform allows users to register, log in, create blog posts, view and edit their posts, and display the published posts to the public.
 
