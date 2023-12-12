@@ -48,7 +48,7 @@ SnapBlog is a Web-based blogging platform where users can create, publish, and m
 1. Clone the repository:
 - Make sure to have installed node and npm
    ```bash
-   git clone https://github.com/AK08/blogs.git
+   git clone https://github.com/AK08/Snap-Blog
    cd blogs
 
 3. Install Dependencies
@@ -92,8 +92,3 @@ SnapBlog is a Web-based blogging platform where users can create, publish, and m
 ```bash
    http://localhost:5173/
    
-"# Snap-Blog" 
-"# Snap-Blog" 
-"# Snap-Blog" 
-"# Snap-Blog" 
-"# Snap-Blog" 
