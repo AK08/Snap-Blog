@@ -41,7 +41,10 @@ SnapBlog is a Web-based blogging platform where users can create, publish, and m
 - Backend: [Node.js](https://nodejs.org/) with [Express](https://expressjs.com/)
 - Database: [MySQL](https://www.mysql.com/)
 - Styling: [Material-UI](https://material-ui.com/) and [Bootstrap](https://getbootstrap.com/)
-- Hosting: [000WebHost](https://in.000webhost.com)
+- Hosting:
+- Frontend - [000WebHost](https://in.000webhost.com)
+- Backend - Render 
+- Database - Godaddy 
 
 ## Getting Started
 
